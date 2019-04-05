@@ -1,3 +1,3 @@
 # Guess-the-number
 
-Coursera mini-project #3
+Coursera mini-project #2
